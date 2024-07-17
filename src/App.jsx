@@ -7,7 +7,7 @@ const App = () => {
       Hello World
 
     <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
-      <Button className="mt-20" href="#login">
+      <Button className="mt-10">
         something strange hit me
       </Button>
     </div>
